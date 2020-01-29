@@ -3,6 +3,7 @@ import { graphql } from 'gatsby';
 
 import Layout from './../components/Layout';
 import BlogListing from './../components/BlogListing';
+import BlogClass from "./../components/BlogClass";
 
 const BlogPageInner = props => {
   try {

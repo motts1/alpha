@@ -88,7 +88,7 @@ const Nav = () => {
       <StyledList>
         <ListElement>
           <NavItem to="/blog/" activeClassName={activeClassName}>
-            blog
+            products
           </NavItem>
         </ListElement>
         <ListElement>

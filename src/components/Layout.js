@@ -94,7 +94,7 @@ const Layout = ({ children }) => {
 
         <Nav />
       </StyledHeader>
-<img src="alpha.jpg"/>
+<img src='alpha.jpg'/>
       {children}
     </Main>
   );
